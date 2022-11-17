@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/UnityTheCoder/ecalc">
-    <img src="https://github.com/UnityTheCoder/ecalc/blob/main/assets/logo.png?raw=true" alt="Logo" width="140" height="140">
+    <img src="https://github.com/UnityTheCoder/ecalc/blob/main/assets/_logo.png?raw=true" alt="Logo" width="140" height="140">
 </a">
 
 <h3 align="center">!Calc</h3>
