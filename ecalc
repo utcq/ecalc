@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+import sys
+from math import *
+
+args = sys.argv
+for arg in args:
+    xn = args.index(arg)
+    if "^" in arg:
+        la = arg.split("^")
+        new = f"pow({la[0]}, {la[1]})"
+        args[xn] = new
+
+del args[0]
+
+cmd = ' '.join(args)
+
+
+def inv(num):
+    return num * (-1)
+
+
+exec("import math; print({})".format(cmd))
+
