@@ -46,6 +46,7 @@ ecalc 4^3     (auto translation to) ~>   pow(4,3)
 ecalc exp(4)
 ecalc 'asin(0.55)'
 ecalc 'inv(5)'        =>           -5
+ecalc 'cbrt(8)'                     ~>   num ** (1 / 3)
 ```
 
 

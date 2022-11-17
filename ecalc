@@ -18,6 +18,9 @@ cmd = ' '.join(args)
 def inv(num):
     return num * (-1)
 
+def cbrt(num):
+    return num ** (1. / 3.)
+
 
 exec("import math; print({})".format(cmd))
 
