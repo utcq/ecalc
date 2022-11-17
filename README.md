@@ -52,11 +52,16 @@ ecalc 'cbrt(8)'                     ~>   num ** (1 / 3)
 
 ## Constants
 
-`e`   ~> Euler 
-`pi`  ~> Pi
-`tau` ~> Tau
-`inf` ~> infinite
-`nan` ~> NaN
+- `e`   ~> Euler 
+
+- `pi`  ~> Pi
+
+- `tau` ~> Tau
+
+- `inf` ~> infinite
+
+- `nan` ~> NaN
+
 
 
 
