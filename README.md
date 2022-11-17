@@ -50,16 +50,12 @@ ecalc 'cbrt(8)'                     ~>   num ** (1 / 3)
 ```
 
 
-## Constants
+### Constants
 
 - `e`   ~> Euler 
-
 - `pi`  ~> Pi
-
 - `tau` ~> Tau
-
 - `inf` ~> infinite
-
 - `nan` ~> NaN
 
 
