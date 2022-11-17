@@ -35,7 +35,7 @@
 ### Installation
 
 ```bash
-sudo sh -c "curl -L https://raw.githubusercontent.com/UnityTheCoder/ecalc/main/ecalc > /usr/bin/ecalc"
+sudo sh -c "curl -L https://raw.githubusercontent.com/UnityTheCoder/ecalc/main/ecalc > /usr/bin/ecalc; chmod +x /usr/bin/ecalc"
 ```
 
 ## Usage
