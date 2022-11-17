@@ -49,6 +49,32 @@ ecalc 'inv(5)'        =>           -5
 ecalc 'cbrt(8)'                     ~>   num ** (1 / 3)
 ```
 
+### Functions
+
+- `abs`: Absolute Value
+- `ceil`: Smallest integer greater than or equal to the input
+- `floor`: Greatest integer less than or equal to the input
+- `round`: Nearest integer to the input; halfway cases away from 0.0
+- `sin`: Sine
+- `cos`: Cosine
+- `tan`: Tangent
+- `sinh`: Hyperbolic Sine
+- `cosh`: Hyperbolic Cosine
+- `tanh`: Hyperbolic Tangent
+- `asin`: Arcine
+- `acos`: Arccosine
+- `atan`: Arctangent
+- `asinh`: Inverse Hyperbolic Sine
+- `acosh`: Inverse Hyperbolic Cosine
+- `atanh`: Inverse Hyperbolic Tangent
+- `rad`: Convert a number in degrees to radians
+- `dec`: Convert a number in radians to degrees
+- `sqrt`: Square Root
+- `cbrt`: Cube Root
+- `log`: Base-10 Logarithm
+- `log2`: Base-2 Logarithm
+- `exp`: `e**x`
+
 
 ### Constants
 

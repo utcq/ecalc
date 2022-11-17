@@ -21,6 +21,12 @@ def inv(num):
 def cbrt(num):
     return num ** (1. / 3.)
 
+def rad(num):
+    return radians(num)
+
+def dec(num):
+    return degrees(num)
+
 
 exec("import math; print({})".format(cmd))
 
