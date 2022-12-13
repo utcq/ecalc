@@ -47,6 +47,7 @@ ecalc exp(4)
 ecalc 'asin(0.55)'
 ecalc 'inv(5)'        =>           -5
 ecalc 'cbrt(8)'                     ~>   num ** (1 / 3)
+ecalc "); y=[]; [y.append(x) for x in range(23)]; print(y"
 ```
 
 ### Functions
